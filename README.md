@@ -33,4 +33,3 @@ CFNAME====>cxkjntm
 
 配置完毕，将会在每天的04:15重启Cloud Foundry应用程序
 
-
